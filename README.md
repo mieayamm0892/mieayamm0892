@@ -70,9 +70,9 @@
 ---
 
 <!-- ====== FUN FACT ====== -->
-<div align="center">
+<div>
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">FAKTA UNIK</h2>
-  <blockquote style="font-size: 1.2rem; text-align: center;">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
+  <blockquote style="font-size: 1.2rem; text-align: left; margin-left: 20px">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
   <div align="center">
     <img src="https://media.tenor.com/YVSiUKjAvsMAAAAM/anime-nuzzle-k-on.gif" width="520">
   </div>
