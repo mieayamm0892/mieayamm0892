@@ -34,7 +34,7 @@
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">YANG LAIN</h3>
   <p style="margin-top: 10px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
-    <img src="https://pngimg.com/uploads/mysql/mysql_PNG29.png" width="50" title="MySQL">
+    <img src="https://p7.hiclipart.com/preview/747/798/387/mysql-database-web-development-computer-software-dolphin.jpg" width="50" title="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux">
   </p>
 </div>
