@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/28/a4/ee/28a4eebbafe9aa1bbf31cd2711df6746.jpg" width="450" style="border-radius: 8px">
+  <img src="https://i.pinimg.com/1200x/28/a4/ee/28a4eebbafe9aa1bbf31cd2711df6746.jpg" width="400" style="border-radius: 8px">
   <h1 style="font-size: 2.5rem">HALO SEMUA! GW ABRIAN</h1>
   <h3 style="font-size: 1.8rem">FRONT END DEVELOPER PEMULA | PEMBACA NOVEL & KOMIK | PENGEMAR MIE AYAM</h3>
 </div>
@@ -80,9 +80,3 @@
 </div>
 
 ---
-
-<!-- ====== FUN FACT ====== -->
-<div>
-  <h2 align="left" style="font-size: 1.6rem; font-weight: bold">FAKTA UNIK</h2>
-  <blockquote style="font-size: 1.2rem; text-align: left; margin-left: 20px">PERNAH MAKAN MIE AYAM 3 PORSI</blockquote>
- 
