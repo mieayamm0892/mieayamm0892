@@ -1,4 +1,4 @@
-## 🚀 Tentang gw
+## 🚀 Tentang
 Hai! gw Abrian Nafliansyah **Front-End Developer Pemula** yang selalu ingin belajar hal baru.  
 Hobi gw adalah membaca komik, dan membaca novel.
 
