@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap">
   </p>
 
-  <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">YANG LAIN</h3>
+  <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">LAIN LAIN</h3>
   <p style="margin-top: 10px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" title="MySQL">
