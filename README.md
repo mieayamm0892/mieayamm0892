@@ -45,7 +45,6 @@
 <div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">STATISTIK GITHUB</h2>
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=mieayamm0892&show_icons=true&theme=radical">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mieayamm0892&theme=radical">
 </div>
 
 ---
