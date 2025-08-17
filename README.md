@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
-  <img src="https://media.tenor.com/EvaqLQGAP2YAAAAM/attention-listen.gif" width="490" style="border-radius: 8px">
+  <img src="https://i.pinimg.com/1200x/28/a4/ee/28a4eebbafe9aa1bbf31cd2711df6746.jpg" width="550" style="border-radius: 8px">
   <h1 style="font-size: 2.5rem">HALO SEMUA! GW ABRIAN</h1>
   <h3 style="font-size: 1.8rem">FRONT END DEVELOPER PEMULA | PEMBACA NOVEL & KOMIK | PENGEMAR MIE AYAM</h3>
 </div>
@@ -25,18 +25,18 @@
   
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">FRONTEND</h3>
   <p style="margin-top: 10px">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=30">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap">
   </p>
 
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">YANG LAIN</h3>
   <p style="margin-top: 10px">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=30">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub">
   </p>
 </div>
 
@@ -56,13 +56,25 @@
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">HUBUNGI SAYA</h2>
   <p style="margin-top: 10px">
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25" alt="Discord"> 
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=25" alt="WhatsApp">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
   </p>
 </div>
@@ -72,8 +84,8 @@
 <!-- ====== FUN FACT ====== -->
 <div>
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">FAKTA UNIK</h2>
-  <blockquote style="font-size: 1.2rem; text-align: left; margin-left: 20px">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
+  <blockquote style="font-size: 1.2rem; text-align: left; margin-left: 20px">PERNAH MAKAN MIE AYAM 3 PORSI</blockquote>
   <div align="center">
-    <img src="https://media.tenor.com/Cm1DrUGeUzwAAAAM/yummy-umai.gif" width="450">
+    <img src="https://i.pinimg.com/736x/90/f6/a4/90f6a43400cb98ef87358acca5231460.jpg" width="550">
   </div>
 </div>
