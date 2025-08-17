@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
-  <img src="https://media.tenor.com/EwBAeK7ikJ4AAAAM/aaa-shocked.gif" width="520" style="border-radius: 8px">
+  <img src="https://media.tenor.com/EvaqLQGAP2YAAAAM/attention-listen.gif" width="490" style="border-radius: 8px">
   <h1 style="font-size: 2.5rem">HALO SEMUA! GW ABRIAN</h1>
   <h3 style="font-size: 1.8rem">FRONT END DEVELOPER PEMULA | PEMBACA NOVEL & KOMIK | PENGEMAR MIE AYAM</h3>
 </div>
@@ -11,7 +11,7 @@
 <div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">TENTANG SAYA</h2>
   <div align="left" style="font-size: 1.1rem; margin-left: 20px">
-    • SUKA DI KAMAR TERUS<br>
+    • SUKA DI KAMAR<br>
     • SUKA NGODING SAMBIL DENGERIN LAGU<br>
     • PENGEN JADI FRONT END DEVELOPER SEPUH
   </div>
@@ -74,6 +74,6 @@
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">FAKTA UNIK</h2>
   <blockquote style="font-size: 1.2rem; text-align: left; margin-left: 20px">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
   <div align="center">
-    <img src="https://media.tenor.com/YVSiUKjAvsMAAAAM/anime-nuzzle-k-on.gif" width="520">
+    <img src="https://media.tenor.com/Cm1DrUGeUzwAAAAM/yummy-umai.gif" width="450">
   </div>
 </div>
