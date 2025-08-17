@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
-  <img src="https://media.tenor.com/ghk-0TJQlQ0AAAAM/yui-hirasawa.gif" width="520" style="border-radius: 8px">
+  <img src="https://media.tenor.com/EwBAeK7ikJ4AAAAM/aaa-shocked.gif" width="520" style="border-radius: 8px">
   <h1 style="font-size: 2.5rem">HALO SEMUA! GW ABRIAN</h1>
   <h3 style="font-size: 1.8rem">FRONT END DEVELOPER PEMULA | PEMBACA NOVEL & KOMIK | PENGEMAR MIE AYAM</h3>
 </div>
@@ -21,7 +21,7 @@
 
 <!-- ====== SKILL GW ====== -->
 <div align="center">
-  <h2 align="left" style="font-size: 1.6rem; font-weight: bold">SKILL </h2>
+  <h2 align="left" style="font-size: 1.6rem; font-weight: bold">SKILL</h2>
   
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">FRONTEND</h3>
   <p style="margin-top: 10px">
@@ -70,8 +70,10 @@
 ---
 
 <!-- ====== FUN FACT ====== -->
-<div align="left">
+<div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">FAKTA UNIK</h2>
-  <blockquote style="font-size: 1.2rem; text-align: left;">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
-  <img src="https://media.tenor.com/YVSiUKjAvsMAAAAM/anime-nuzzle-k-on.gif" width="520">
+  <blockquote style="font-size: 1.2rem; text-align: center;">"PERNAH MAKAN MIE AYAM 3 PORSI"</blockquote>
+  <div align="center">
+    <img src="https://media.tenor.com/YVSiUKjAvsMAAAAM/anime-nuzzle-k-on.gif" width="520">
+  </div>
 </div>
