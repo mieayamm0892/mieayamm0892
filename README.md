@@ -34,7 +34,7 @@
   <p style="margin-top: 10px">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" title="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" alt="PHP" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
   </p>
 </div>
 
