@@ -13,7 +13,6 @@
   <div align="left" style="font-size: 1.1rem; margin-left: 20px">
     • SUKA DI KAMAR<br>
     • SUKA NGODING SAMBIL DENGERIN LAGU<br>
-    • PENGEN JADI FRONT END DEVELOPER SEPUH
   </div>
 </div>
 
@@ -33,7 +32,6 @@
 
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">LAIN LAIN</h3>
   <p style="margin-top: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" title="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux">
   </p>
