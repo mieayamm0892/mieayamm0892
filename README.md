@@ -11,8 +11,8 @@
 <div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">TENTANG SAYA</h2>
   <div align="left" style="font-size: 1.1rem; margin-left: 20px">
-    • SUKA DI KAMAR<br>
-    • SUKA NGODING SAMBIL DENGERIN LAGU<br>
+    • SUKA MIE AYAM<br>
+    • FANS REVEREND INSANITY<br>
   </div>
 </div>
 
