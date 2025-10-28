@@ -1,5 +1,6 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
+  <img src="https://i.pinimg.com/736x/9a/f1/28/9af128eb811a07ef76bb69f55f3ee1f9.jpg" width="400" style="border-radius: 8px">
   <h1 style="font-size: 2.5rem">HALO SEMUA! GW ABRIAN</h1>
   <h3 style="font-size: 1.8rem">FRONT END DEVELOPER PEMULA</h3>
 </div>
