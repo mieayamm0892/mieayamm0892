@@ -10,7 +10,7 @@
 <div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">ABOUT</h2>
   <div align="left" style="font-size: 1.1rem; margin-left: 20px">
-    • CINTA MIE AYAM<br>
+    LOVE MIE AYAM<br>
   </div>
 </div>
 
