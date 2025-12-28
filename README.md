@@ -6,16 +6,6 @@
 
 ---
 
-<!-- ====== TENTANG GW ====== -->
-<div align="center">
-  <h2 align="left" style="font-size: 1.6rem; font-weight: bold">ABOUT</h2>
-  <div align="left" style="font-size: 1.1rem; margin-left: 20px">
-    LOVE MIE AYAM<br>
-  </div>
-</div>
-
----
-
 <!-- ====== SKILL GW ====== -->
 <div align="center">
   <h2 align="left" style="font-size: 1.6rem; font-weight: bold">SKILL</h2>
