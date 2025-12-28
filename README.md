@@ -5,10 +5,6 @@
 </div>
 
 ---
-
-<!-- ====== SKILL GW ====== -->
-<div align="center">
-  <h2 align="left" style="font-size: 1.6rem; font-weight: bold">SKILL</h2>
   
   <h3 align="center" style="font-size: 1.3rem; font-weight: bold; margin-left: 20px">FRONTEND</h3>
   <p style="margin-top: 10px">
