@@ -1,5 +1,4 @@
 <!-- ====== HEADER ====== -->
 <div align="center">
-  <img src="homura and smug ahh caterpillar.jpeg" width="400" style="border-radius: 8px">
-  <h3 style="font-size: 1.8rem">WEB DEVELOPER PEMULA</h3>
-</div>
+  <img src="943c94c3-f5cf-4fa6-b206-2a907b1c2a1f_removalai_preview.png" width="400" style="border-radius: 8px">
+  
